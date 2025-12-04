@@ -1,60 +1,63 @@
-# 🚀 Merdoss-Admin v5.0 – Le Cours Officiel GRATUIT (et le plus puissant de 2025)
+<div align="center">
 
-**Imaginez livrer en 48h ce que les autres mettent 6 mois à coder…**  
-CRM • ERP • Tableau de bord IA • SIG • Jumeau numérique • Plateforme de trading crypto • Métavers 3D • Dashboard IoT temps réel → **Tout ça avec UN SEUL package Python.**
+# Merdoss-Admin v5.0 – COURS OFFICIEL 100 % TERMINÉ
 
-Ce cours va vous transformer en **super-héros du développement web fullstack**.
+**Le cours qui transforme un développeur Python junior en machine à livrer des apps à 100 k€+ en 48h**
 
-https://github.com/HajajeHamid/Merdoss-Admin-Docs/assets/16696687/8f2f3c7f-91a4-4d2b-9c3e-2f5e8d6b0a1d  
-*(vidéo démo 45s du résultat final – à ajouter dès que tu l’as)*
+**8 modules + 8 workshops professionnels complets et déployables**  
+**Valeur totale des livrables > 1 million €**  
+**Tout est GRATUIT et OPEN SOURCE**
 
-### 🔥 Ce que tu vas LIVRER à la fin de ce cours (vraies apps, pas des TODO MVC)
+[![Stars](https://img.shields.io/github/stars/HajajeHamid/Merdoss-Admin-Docs?style=social)](https://github.com/HajajeHamid/Merdoss-Admin-Docs)
+[![Forks](https://img.shields.io/github/forks/HajajeHamid/Merdoss-Admin-Docs?style=social)](https://github.com/HajajeHamid/Merdoss-Admin-Docs)
 
-| Projet réel (tu choisis 1)                  | Temps de réalisation | Déployé en prod ? |
-|---------------------------------------------|----------------------|-------------------|
-| CRM complet avec chat IA intégré            | 24–48h              | Oui               |
-| Jumeau numérique 3D d’une ville/campus      | 36h                 | Oui               |
-| Plateforme de trading crypto + backtesting  | 30h                 | Oui               |
-| ERP entrepôt avec vue 3D du stock           | 40h                 | Oui               |
-| Métavers visitable dans le navigateur       | 48h                 | Oui               |
-| Dashboard Smart City temps réel + simulation| 40h                 | Oui               |
+https://github.com/user-attachments/assets/xxx-vidéo-démo-2-min-cours-complet.mp4
 
-### 🎯 Pourquoi ce cours est différent de tous les autres
+</div>
 
-| Les autres cours                               | Ce cours Merdoss-Admin v5                      |
-|-----------------------------------------------|-------------------------------------------------|
-| Tu apprends un framework → tu restes junior   | Tu apprends un méta-framework → tu deviens senior en 15h |
-| 3 mois pour un dashboard moche                | 5 minutes pour un dashboard cyberpunk magnifique |
-| 12 packages à installer et configurer         | 1 seul : `pip install "merdoss-admin[all]"`     |
-| Déploiement = cauchemar                       | 1 commande → en ligne sur Fly.io/Render gratuit |
+### Ce que tu vas LIVRER à la fin (projets réels, pas des démos)
 
-### 📚 Plan complet du cours (15 heures de pure valeur)
+| Projet livrable                               | Temps    | Prix marché       | Workshop |
+|-----------------------------------------------|----------|-------------------|----------|
+| CRM IA complet                                | 24–48h   | 8–25 k€           | W1 Complete |
+| Jumeau numérique 3D ville                     | 36h      | 50–300 k€         | W2 Complete |
+| Trading Bot crypto + Telegram                 | 30h      | 20–80 k€          | W3 Complete |
+| ERP + entrepôt 3D Potree                      | 40h      | 15–40 k€          | W4 Complete |
+| Métavers visitable                            | 48h      | 25–200 k€         | W5 Complete |
+| Smart City + simulation                       | 40h      | 50–300 k€         | W6 Complete |
+| Supervision IoT temps réel                    | 36h      | 15–60 k€          | W7 Complete |
+| SaaS B2B multi-tenant + Stripe                | 48h      | 30–120 k€         | W8 Complete |
 
-👉 [**VOIR LE PLAN DÉTAILLÉ → PLAN.md**](./PLAN.md)
+### Pourquoi ce cours explose tous les autres
 
-| Module | Titre                                      | Durée   | Statut         |
-|-------|--------------------------------------------|---------|----------------|
-| 0     | Introduction & Installation                | 45 min  | ✅ Publié     |
-| 1     | Ta première app pro en 5 minutes           | 1h15    | ✅ Publié     |
-| 2     | La CLI magique (50 commandes/jour)         | 1h30    | ⏳ Bientôt     |
-| 3     | Règles DB (les seules à connaître)         | 1h45    | ⏳ Bientôt     |
-| 4     | Tous les domaines pro couverts (★ star ★)  | 3h      | ⏳ Bientôt     |
-| 5     | UI cyberpunk & widgets réutilisables       | 1h30    | ⏳ Bientôt     |
-| 6     | DevOps & déploiement 1-clic                | 1h30    | ⏳ Bientôt     |
-| 7     | Projet final noté (déployé en prod)        | 4h      | ⏳ Bientôt     |
-| 8     | Certification + roadmap 2026               | 30 min  | ⏳ Bientôt     |
+| Les autres cours                          | Ce cours Merdoss-Admin v5                          |
+|-------------------------------------------|-----------------------------------------------------|
+| 6 mois pour un dashboard moche            | 5 minutes pour un dashboard cyberpunk magnifique   |
+| 15 packages à configurer                  | **1 seul** : `pip install "merdoss-admin[all]"`     |
+| Déploiement = cauchemar                   | 1 commande → en ligne gratuitement                 |
+| Tu restes junior                          | **Tu deviens senior + certifié en 15h**            |
 
-### 🚀 Rejoins les 500+ premiers étudiants (gratuit & illimité)
+### Plan complet du cours (100 % disponible)
 
-1. **Star ce repo** ⭐ (c’est le bouton en haut à droite)  
-2. Active la cloche 🔔 pour être notifié à chaque nouveau module  
-3. Rejoins le Discord officiel (lien dans le Module 08)
+Complete [**PLAN.md – Tout est là → clique ici**](./PLAN.md)
+
+### Rejoins la révolution
+
+1. **Star ce repo** Complete (c’est le bouton en haut à droite)
+2. Active la cloche Complete pour être notifié des mises à jour
+3. Rejoins le Discord officiel → lien dans le **Module 08**
+4. Commence maintenant → **[Module 0 – Installation](./modules/module-00-introduction.md)**
 
 ### Auteur
 **Hamid Hajaje** – Créateur de Merdoss-Admin  
-Décembre 2025 – Le futur du développement web commence ici.
+Décembre 2025 → Le futur du développement web commence ici.
 
-**Prêt à devenir le développeur que tout le monde veut recruter ?**  
-→ Ouvre [**PLAN.md**](./PLAN.md) et commence le Module 0 **maintenant** !
+<div align="center">
 
-*(Zéro théorie inutile • 100 % code • 100 % projets réels • 100 % gratuit)*
+**Tu n’es plus un développeur Python.**  
+**Tu es un Merdoss Engineer.**  
+**Et ça change absolument tout.**
+
+Complete Complete Complete
+
+</div>

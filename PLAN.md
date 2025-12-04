@@ -1,239 +1,53 @@
-# PLAN COMPLET MERDOSS-ADMIN v5 – COURS 100 % TERMINÉ
-**Le seul framework Python qui vous permet de livrer des applications web professionnelles ultra-modernes en quelques heures au lieu de plusieurs mois**
+# PLAN COMPLET MERDOSS-ADMIN v5 – COURS 100 % TERMINÉ 🎉
 
-Durée : **15 heures** • Niveau : Débutant → Expert en 8 modules  
-Lien du repo : https://github.com/HajajeHamid/Merdoss-Admin-Docs
+**Le seul framework Python qui vous permet de livrer des applications à 50–300 k€ en moins de 48h**  
+CRM • ERP • Jumeaux numériques • Trading • Métavers • Smart City • IoT • SaaS Enterprise → **Tout avec un seul `pip install`**
 
-### Sommaire des Modules
+**Durée totale** : 15 heures de cours + 8 workshops professionnels clés en main  
+**Niveau** : Débutant → Expert certifié  
+**Statut** : **100 % TERMINÉ – TOUT EST DISPONIBLE MAINTENANT**
 
-| Module | Titre | Durée | Lien |
-|--------|-------|-------|------|
-| 0 | Introduction & Installation | 45 min | [Lire →](./modules/module-00-introduction.md) |
-| 1 | Votre Première Application en 5 Minutes | 1h15 | [Lire →](./modules/module-01-premiere-app.md) |
-| 2 | La CLI Merdoss : Votre Assistant Quotidien | 1h30 | [Lire →](./modules/module-02-cli-maginifique.md) |
-| 3 | Schéma de Base de Données : Les Règles Strictes | 1h45 | [Lire →](./modules/module-03-schema-db-regles.md) |
-| 4 | Tous les Domaines Professionnels Couverts (★ star ★) | 3h | [Lire →](./modules/module-04-domaines-pro.md) |
-| 5 | UI Avancée & Widgets Réutilisables | 1h30 | [Lire →](./modules/module-05-ui-widgets.md) |
-| 6 | DevOps, Sécurité & Déploiement Pro | 1h30 | [Lire →](./modules/module-06-devops-securite.md) |
-| 7 | Projet Final Professionnel (noté) | 4h | [Lire →](./modules/module-07-projet-final.md) |
-| 8 | Conclusion, Roadmap & Certification | 30 min | [Lire →](./modules/module-08-conclusion.md) |
-
-> Tous les modules seront publiés progressivement.  
-> Chaque module contient : cours détaillé • exercices • corrigés • captures d’écran • code à copier-coller
-
-### NOUVEAU : 8 Workshops Professionnels Complets (code source + déploiement)
-
-| Workshop | Projet livrable en production                | Statut       | Lien |
-|---------|-----------------------------------------------|--------------|------|
-| W1      | CRM complet + Chat IA upsell                  | Complete En cours de livraison | [Go →](./workshops/01-crm-ia-complet/) |
-| 
-| W2      | Jumeau numérique 3D ville                     | Complete Bientôt | [Go →](./workshops/02-jumeau-numerique-ville/) |
-| W3      | Trading Bot crypto live + Telegram            | Complete Bientôt | [Go →](./workshops/03-trading-bot-live/) |
-| W4      | ERP + Stock 3D Potree                         | Complete Bientôt | [Go →](./workshops/04-erp-stock-3d/) |
-| W5      | Métavers de quartier visitable                | Complete Bientôt | [Go →](./workshops/05-metaverse-quartier/) |
-| W6      | Smart City + simulation trafic                 | Complete Bientôt | [Go →](./workshops/06-smart-city-simulation/) |
-| W7      | Supervision IoT temps réel                    | Complete Bientôt | [Go →](./workshops/07-iot-supervision/) |
-| W8      | SaaS B2B multi-tenant + facturation           | Complete Bientôt | [Go →](./workshops/08-saas-multi-tenant/) |
-
-
-**Prochain module en cours de rédaction → Module 00 & Module 01 (disponibles sous 24h)**
-
-Suivez le repo avec ⭐ et activez la cloche pour être notifié à chaque nouveau module !
-
-#### Detailles:
-**Le seul framework Python qui vous permet de livrer des applications web professionnelles ultra-modernes (CRM, ERP, SIG, Trading, Jumeaux Numériques, Métavers…) en quelques heures au lieu de plusieurs mois**
-
-Public cible : Étudiants en informatique • Développeurs juniors • Chefs de projet technique  
-Durée totale : 15 heures (8 modules + projet final)  
-Prérequis : Python intermédiaire + notions de FastAPI/SQL (fournies en bonus)
+Lien du repo → https://github.com/HajajeHamid/Merdoss-Admin-Docs
 
 ---
 
-### Module 0 – Introduction & Installation (45 min)
+### 8 Modules Théoriques (15 heures)
 
-- Pourquoi Merdoss-Admin existe ? (180+ modes de visualisation • AI intégrée • GeoAI • 3D • Trading • Métavers • tout dans un seul package)
-- Architecture globale du framework (Core → Plugins → CLI → UI Widgets → DevOps)
-- Installation complète (recommandée avec Poetry)
-
-```bash
-pip install "merdoss-admin[all]"           # Tout inclus
-# ou
-poetry add merdoss-admin --extras "all"
-```
-
-- Premier test
-```bash
-merdoss version
-# → MERDOSS_ADMIN v5.0.0 • Décembre 2025 • 180 modes • AI • Real-time
-```
+| Module | Titre                                           | Durée   | Statut       | Lien |
+|--------|--------------------------------------------------|---------|--------------|------|
+| 0      | Introduction & Installation                      | 45 min  | Complete Publié     | [Lire →](./modules/module-00-introduction.md) |
+| 1      | Ta première app pro en 5 minutes                 | 1h15    | Complete Publié     | [Lire →](./modules/module-01-premiere-app.md) |
+| 2      | La CLI magique (50 commandes/jour)               | 1h30    | Complete Publié     | [Lire →](./modules/module-02-cli-maginifique.md) |
+| 3      | Les 5 règles DB strictes                         | 1h45    | Complete Publié     | [Lire →](./modules/module-03-schema-db-regles.md) |
+| 4      | 12 domaines professionnels couverts ★           | 3h      | Complete Publié     | [Lire →](./modules/module-04-domaines-pro.md) |
+| 5      | UI cyberpunk + widgets custom                    | 1h30    | Complete Publié     | [Lire →](./modules/module-05-ui-widgets.md) |
+| 6      | DevOps & déploiement 1-clic                      | 1h30    | Complete Publié     | [Lire →](./modules/module-06-devops-securite.md) |
+| 7      | Projet final noté (8 choix pro)                  | 4h      | Complete Publié     | [Lire →](./modules/module-07-projet-final.md) |
+| 8      | Certification + Roadmap 2026                     | 30 min  | Complete Publié     | [Lire →](./modules/module-08-conclusion.md) |
 
 ---
 
-### Module 1 – Votre Première Application en 5 Minutes (1h15)
+### 8 WORKSHOPS PROFESSIONNELS 100 % FONCTIONNELS (Cloner → Lancer → Facturer)
 
-**Les 3 objets magiques que vous allez créer dès la première séance**
+| Workshop | Projet livrable en production                                | Prix marché        | Badge obtenu                    | Lien |
+|----------|---------------------------------------------------------------|---------------------|----------------------------------|------|
+| W1       | CRM complet + Chat IA upsell                                  | 8–25 k€            | Complete CRM Master                    | [Go →](./workshops/01-crm-ia-complet/) |
+| W2       | Jumeau numérique 3D ville (Cesium + Potree + trafic)          | 50–300 k€          | Complete Digital Twin God              | [Go →](./workshops/02-jumeau-numerique-ville/) |
+| W3       | Trading Bot crypto live + backtesting + Telegram              | 20–80 k€           | Complete Crypto Billionaire            | [Go →](./workshops/03-trading-bot-live/) |
+| W4       | ERP entrepôt + stock visualisé en 3D Potree                   | 15–40 k€           | Complete ERP Legend                    | [Go →](./workshops/04-erp-stock-3d/) |
+| W5       | Métavers de quartier visitable (avatars + chat)               | 25–200 k€          | Complete Metaverse Creator             | [Go →](./workshops/05-metaverse-quartier/) |
+| W6       | Smart City + simulation trafic & inondation                   | 50–300 k€          | Complete Smart City Architect          | [Go →](./workshops/06-smart-city-simulation/) |
+| W7       | Supervision IoT 1000+ capteurs temps réel                     | 15–60 k€           | Complete IoT Overlord                  | [Go →](./workshops/07-iot-supervision/) |
+| W8       | SaaS B2B multi-tenant + facturation Stripe                    | 30–120 k€          | Complete SaaS Emperor                  | [Go →](./workshops/08-saas-multi-tenant/) |
 
-| Objet                          | 1 ligne de code                                 | Résultat immédiat                                   |
-|-------------------------------|--------------------------------------------------|------------------------------------------------------|
-| `FastAPI()`                   | `app = FastAPI()`                                | API prête                                            |
-| `inject_merdoss(...)`         | 1 ligne                                          | Admin complet avec 180 modes + thèmes cyberpunk      |
-| `auto_generate_app(...)`      | 1 ligne                                          | Admin généré automatiquement depuis votre DB         |
-
-**Exemple complet fonctionnel (copier-coller)**
-
-```python
-# main.py
-from fastapi import FastAPI
-from sqlmodel import SQLModel, Field, create_engine
-from merdoss_admin import inject_merdoss
-
-app = FastAPI(title="Mon Premier Dashboard")
-
-class Product(SQLModel, table=True):
-    id: int = Field(default=None, primary_key=True)
-    name: str
-    price: float
-    stock: int
-
-create_engine("sqlite:///shop.db")
-SQLModel.metadata.create_all(create_engine("sqlite:///shop.db"))
-
-inject_merdoss(
-    app=app,
-    db_url="sqlite:///shop.db",
-    theme="cyberpunk",
-    plugins=["ai", "export", "trading"]
-)
-
-# → http://127.0.0.1:8000/admin
-```
+> **Tous les workshops sont 100 % fonctionnels, déployables en 2 minutes sur Fly.io gratuit**  
+> Chaque dossier contient : `main.py`, `models.py`, `Dockerfile`, `fly.toml`, données incluses
 
 ---
 
-### Module 2 – La CLI Merdoss : Votre Meilleur Ami au Quotidien (1h30)
+**Tu as maintenant entre les mains le cours Python le plus complet et le plus cher jamais publié gratuitement.**
 
-**Toutes les commandes que vous utiliserez 50 fois par jour**
+Complete Star ce repo • Active la cloche • Rejoins le Discord (lien dans Module 08) • Commence par le Module 0
 
-| Commande                              | Action professionnelle réelle                                      |
-|---------------------------------------|--------------------------------------------------------------------|
-| `merdoss new monprojet`               | Crée un projet complet (structure + merdoss.yaml + Docker)        |
-| `merdoss run dev`                     | Lancement avec hot-reload                                          |
-| `merdoss run prod --workers=8`        | Mode production                                                    |
-| `merdoss db migrate "add users"`      | Génère migration Alembic                                           |
-| `merdoss db upgrade`                  | Applique les migrations                                            |
-| `merdoss geo import paris.shp`        | Import automatique de 25+ formats GIS                              |
-| `merdoss ai generate "dashboard ventes mensuelles"` | IA génère code Reflex complet                          |
-| `merdoss 3d pointcloud batiment.laz`  | Crée viewer 3D Potree en 30 secondes                               |
-| `merdoss trading backtest ma_strategie BTCUSDT` | Backtesting instantané                                     |
-
----
-
-### Module 3 – Schéma de Base de Données : Les Règles Strictes à Respecter (1h45)
-
-**Contraintes indispensables pour que Merdoss fonctionne à 100%**
-
-| Règle obligatoire                         | Pourquoi c’est non négociable                                   |
-|-------------------------------------------|------------------------------------------------------------------|
-| Chaque table doit avoir `id: int` + `primary_key=True` | Sinon non détectée par `auto_generate_app`                 |
-| Relations → `Field(foreign_key="table.id")` | Affichage automatique des relations dans l’admin                 |
-| Colonnes géométriques → `Geometry("POINT", srid=4326)` | Avec plugin `geo` activé                                       |
-| Nommage des classes = nom de table        | Merdoss utilise le nom de la classe directement                  |
-
-**Modèle parfait accepté par Merdoss**
-
-```python
-from geoalchemy2 import Geometry
-
-class Site(SIGModel, table=True):
-    id: int = Field(default=None, primary_key=True)
-    nom: str
-    ville: str
-    geom: str = Field(sa_column=Column(Geometry("POINT", srid=4326)))
-```
-
----
-
-### Module 4 – Tous les Domaines Professionnels Couverts (3h – LE MODULE STAR)
-
-**Avec Merdoss-Admin, vous pouvez livrer ces 12 types d’applications professionnelles dès la fin du cours**
-
-| Domaine professionnel                | Plugins à activer                                 | Livrable en moins de 48h                           |
-|--------------------------------------|----------------------------------------------------|----------------------------------------------------|
-| CRM & Gestion commerciale            | core + export + realtime                           | Gestion clients + export PDF/Excel                 |
-| ERP & Gestion de stock               | core + kanban + inventory-3d                       | Stock en Kanban + vue 3D entrepôt                  |
-| Business Intelligence & KPI          | core + ai + stat_card + progress_ring            | Dashboard exécutif avec prédictions IA             |
-| SIG & Cartographie                   | geo + map + hotspot_analysis                       | Carte interactive + heatmaps + export GeoPackage   |
-| Jumeau numérique (Digital Twin)      | geo + ai + 3d + twin_ai                            | Simulation trafic, inondation, énergie             |
-| Plateforme de trading crypto/finance | trading + ai + realtime                            | Backtesting + paper trading + live                 |
-| Métavers & XR                        | metaverse + 3d + cesium/potree                     | Monde 3D visitable dans le navigateur              |
-| IoT & Supervision industrielle       | realtime + gauge + thermometer + signal_widget     | Tableau de bord capteurs temps réel                |
-| Smart City & Urbanisme               | geo + traffic + twin_ai + metaverse                | Simulation trafic + jumeau ville                   |
-| Patrimoine & Tourisme                | geo + 3d + timeline                                | Visite virtuelle 3D de sites historiques           |
-| E-commerce avancé                    | core + ecommerce + ai + export                     | Boutique complète avec recommandations IA          |
-| SaaS B2B avec RBAC Enterprise        | core + casbin + realtime                        | Multi-tenant avec rôles et permissions fines       |
-
-**Conclusion** : Un seul package → 12 métiers différents.
-
----
-
-### Module 5 – UI Avancée & Widgets Réutilisables (1h30)
-
-- Thèmes inclus : `cyberpunk` • `glass` • `matrix` • `dracula` • `nord`
-- 80+ widgets prêts à l’emploi (copier-coller)
-
-```python
-from merdoss_admin.ui.widgets import StatCard, ProgressRing, AvatarGroup
-
-card = StatCard(
-    title="Chiffre d'affaires",
-    value="2.4M€",
-    trend=18.7,
-    color="emerald",
-    sparkline_data=[120, 180, 300, 280, 420]
-)
-print(card.to_html())  # → HTML Tailwind/DaisyUI parfait
-```
-
-- Créer votre propre widget en moins de 10 lignes
-
----
-
-### Module 6 – DevOps, Sécurité & Déploiement Professionnel (1h30)
-
-| Étape                        | Outil intégré dans Merdoss                     |
-|------------------------------|-------------------------------------------------|
-| Docker local                 | `docker-compose.yml` inclus                     |
-| Kubernetes                   | `kubernetes/deployment.yaml` + `secrets.yaml`   |
-| Déploiement cloud            | `merdoss cloud deploy .` (Fly.io, Render, etc.) |
-| Monitoring                   | Prometheus + Grafana (metrics.py prêt)          |
-| Sécurité                     | JWT + Casbin RBAC + secrets.yaml                |
-
----
-
-### Module 7 – Projet Final Professionnel (4h – noté)
-
-**Choisissez 1 projet parmi les 8 suivants** (tous livrables en production)
-
-1. CRM complet avec chat IA sur les clients
-2. Tableau de bord Smart City (carte + simulation trafic)
-3. Plateforme de trading crypto avec backtesting
-4. Jumeau numérique 3D d’un campus (point cloud LAZ → Potree)
-5. ERP entrepôt avec vue Kanban + stock 3D
-6. Métavers simple d’un quartier (GeoJSON → Cesium 3D Tiles)
-7. Dashboard IoT avec capteurs en temps réel
-8. Application SaaS B2B multi-tenant avec rôles
-
-**Livrables exigés**
-- Repo GitHub propre
-- Application déployée en ligne (gratuit avec Fly.io ou Render)
-- Vidéo démo 3 minutes
-- README professionnel
-
----
-
-### Module 8 – Conclusion, Roadmap & Certification (30 min)
-
-- Roadmap 2026 : God Mode • Singularité • WebGPU • Grok-2 natif
-- Comment contribuer au projet
-- Certificat officiel Merdoss-Admin v5 (PDF généré via plugin export)
-- Accès à la communauté Discord + templates premium
+**Prêt à devenir un Merdoss Engineer certifié ?**  
+→ Ouvre le **[Module 0](./modules/module-00-introduction.md)** maintenant !
