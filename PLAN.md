@@ -26,8 +26,6 @@ Lien du repo : https://github.com/HajajeHamid/Merdoss-Admin-Docs
 
 Suivez le repo avec ⭐ et activez la cloche pour être notifié à chaque nouveau module !
 
-
-
 #### Detailles:
 **Le seul framework Python qui vous permet de livrer des applications web professionnelles ultra-modernes (CRM, ERP, SIG, Trading, Jumeaux Numériques, Métavers…) en quelques heures au lieu de plusieurs mois**
 
