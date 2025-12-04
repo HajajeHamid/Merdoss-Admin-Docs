@@ -1,0 +1,4 @@
+merdoss-admin[all]
+sqlmodel
+fastapi
+uvicorn[standard]

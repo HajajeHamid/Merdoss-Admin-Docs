@@ -1,5 +1,4 @@
-# Plan du Cours Complet Merdoss-Admin v5.0
-
+# PLAN COMPLET MERDOSS-ADMIN v5 – COURS 100 % TERMINÉ
 **Le seul framework Python qui vous permet de livrer des applications web professionnelles ultra-modernes en quelques heures au lieu de plusieurs mois**
 
 Durée : **15 heures** • Niveau : Débutant → Expert en 8 modules  
@@ -21,6 +20,21 @@ Lien du repo : https://github.com/HajajeHamid/Merdoss-Admin-Docs
 
 > Tous les modules seront publiés progressivement.  
 > Chaque module contient : cours détaillé • exercices • corrigés • captures d’écran • code à copier-coller
+
+### NOUVEAU : 8 Workshops Professionnels Complets (code source + déploiement)
+
+| Workshop | Projet livrable en production                | Statut       | Lien |
+|---------|-----------------------------------------------|--------------|------|
+| W1      | CRM complet + Chat IA upsell                  | Complete En cours de livraison | [Go →](./workshops/01-crm-ia-complet/) |
+| 
+| W2      | Jumeau numérique 3D ville                     | Complete Bientôt | [Go →](./workshops/02-jumeau-numerique-ville/) |
+| W3      | Trading Bot crypto live + Telegram            | Complete Bientôt | [Go →](./workshops/03-trading-bot-live/) |
+| W4      | ERP + Stock 3D Potree                         | Complete Bientôt | [Go →](./workshops/04-erp-stock-3d/) |
+| W5      | Métavers de quartier visitable                | Complete Bientôt | [Go →](./workshops/05-metaverse-quartier/) |
+| W6      | Smart City + simulation trafic                 | Complete Bientôt | [Go →](./workshops/06-smart-city-simulation/) |
+| W7      | Supervision IoT temps réel                    | Complete Bientôt | [Go →](./workshops/07-iot-supervision/) |
+| W8      | SaaS B2B multi-tenant + facturation           | Complete Bientôt | [Go →](./workshops/08-saas-multi-tenant/) |
+
 
 **Prochain module en cours de rédaction → Module 00 & Module 01 (disponibles sous 24h)**
 

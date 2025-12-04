@@ -1,0 +1,14 @@
+app:
+  title: "Merdoss CRM IA – Workshop"
+  theme: glass
+  favicon: "rocket"
+
+plugins:
+  - ai
+  - export
+  - realtime
+  - kanban
+
+deploy:
+  provider: fly
+  region: cdg

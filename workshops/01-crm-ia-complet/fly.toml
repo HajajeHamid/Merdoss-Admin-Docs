@@ -1,0 +1,7 @@
+app = "crm-ia-2025-CHANGE_ME"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  PORT = "8000"

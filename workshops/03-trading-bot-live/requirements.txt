@@ -1,0 +1,3 @@
+merdoss-admin[all]
+sqlmodel
+geoalchemy2
